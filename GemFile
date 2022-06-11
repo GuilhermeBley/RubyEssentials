@@ -1,0 +1,4 @@
+source 'http://rubygems.org'
+
+gem 'os'
+gem 'http', '~> 4.4', '>= 4.4.1'
